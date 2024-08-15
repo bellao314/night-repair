@@ -8,3 +8,21 @@ body {
   font-family: "Arsenal SC";
   text-align: center;
 }
+
+#leftpic {
+  width: 50%;
+  margin-left: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+#rightpic {
+  width: 50%;
+  margin-left: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+img {
+  width: auto;
+}
